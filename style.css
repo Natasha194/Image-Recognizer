@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+.heading {
+    width: 80%;
+    background-color: purple;
+    border-radius: 10px;;
+}
+
+b {
+    color: #3f7596;
+}
